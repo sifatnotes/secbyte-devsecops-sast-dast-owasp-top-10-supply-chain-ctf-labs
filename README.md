@@ -1,0 +1,2 @@
+# secbyte-devsecops-sast-dast-owasp-top-10-supply-chain-ctf-labs
+A practical collection of cybersecurity CTF labs covering DevSecOps CI/CD pipeline automation (SAST code hunting, DAST scanning, dependency vulnerability triage, software integrity signing) and core OWASP Top 10 web application security vulnerabilities (SSRF, injection flaws, broken authentication, security misconfigurations, insecure design).
